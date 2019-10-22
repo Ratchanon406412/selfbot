@@ -1,0 +1,62 @@
+{
+  "helpstyle": "4",
+  "prefix": "./",
+  "couleur": "",
+  "token": "your bot token",
+  "twitch": "your twitch id",
+  "TimePresence": "IDK",
+  "multipresence": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "IDK_IDK",
+    "IDK_IDK"
+  ],
+  "multipresenceType": "STREAMING",
+  "startPresenceON": "ON",
+  "activitéON": "Hi",
+  "typeON": "STREAMING",
+  "usermods": [
+    "id 1",
+    "id 2"
+  ],
+  "autoreactusers": [
+    "id 1",
+    "id 2"
+  ],
+  "emojis": [
+    "💰",
+    "🐵",
+    "🙈",
+    "🙉",
+    "🙊",
+    "👳",
+    "🇮🇱",
+    "🇿🇼",
+    "🇿🇲",
+    "🇿🇦",
+    "🇹🇷",
+    "🤡",
+    "🤤",
+    "🍭",
+    "👶",
+    "👴",
+    "✡",
+    "🙃",
+    "😎",
+    "😂",
+    "😽",
+    "👵",
+    "🎅",
+    "🕵",
+    "🤵",
+    "👮",
+    "👷",
+    "⭐",
+    "🚿",
+    "😹",
+    "🍬"
+  ],
+  "autodelete": []
+}
